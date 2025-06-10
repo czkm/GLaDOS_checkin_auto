@@ -1,8 +1,5 @@
 # GLaDOS 自动签到，实现无限白嫖
 
-原仓库地址：https://github.com/lukesyy/glados_automation
-
-复制了一个仓库，进行了些修改，防止原仓库被封
 
 环境变量：`GLADOS_COOKIE`（必要） 和 `PUSHPLUS_TOKEN`（非必要）
 
